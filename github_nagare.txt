@@ -12,3 +12,5 @@
 4. Pull from remote repository 
 - Fetch origin (check whether pull request is)
 - pull origin (download from remote repository)
+
+5.ヒョンがGitを教えてくれる！一緒にツール見て話せるの嬉しい！！
