@@ -12,3 +12,5 @@
 4. Pull from remote repository 
 - Fetch origin (check whether pull request is)
 - pull origin (download from remote repository)
+
+5.翔太君が作るホームページ気になるよ！完成したら見してもらっていいですか？！
