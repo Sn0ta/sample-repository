@@ -1,1 +1,14 @@
-"hello"
+1. Create repository (Repository Master) 
+- create repository in local 
+- upload repository to remote server  (publish) 
+
+2. Clone repository (Repository Member) 
+- clone repository in remote server to local 
+
+3. Work in local repository 
+- commit in changes (local repository file changed)
+- push changes (local repository > remote repository)
+
+4. Pull from remote repository 
+- Fetch origin (check whether pull request is)
+- pull origin (download from remote repository)
