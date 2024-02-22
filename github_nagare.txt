@@ -14,3 +14,5 @@
 - pull origin (download from remote repository)
 
 5. Local Repository <-> Remote Repository 
+
+6
